@@ -1,0 +1,15 @@
+{
+  "name": "mybower",
+  "description": "this is test for bower",
+  "main": "index.html",
+  "authors": [
+    "nik"
+  ],
+  "license": "MIT",
+  "homepage": "index.html",
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "bootstrap": "^4.0.0",
+    "angular": "angularjs#^1.6.9"
+  }
+}
